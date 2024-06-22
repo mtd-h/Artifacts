@@ -3,3 +3,6 @@ test
 これはgitのテストです。
 
 編集しています。
+
+
+add -> commit
